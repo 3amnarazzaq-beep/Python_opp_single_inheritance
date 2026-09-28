@@ -1,0 +1,1 @@
+# Python_opp_single_inheritance
